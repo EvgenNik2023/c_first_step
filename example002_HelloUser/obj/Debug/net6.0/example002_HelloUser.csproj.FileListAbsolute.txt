@@ -1,0 +1,15 @@
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.csproj.AssemblyReference.cache
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.AssemblyInfoInputs.cache
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.AssemblyInfo.cs
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.csproj.CoreCompileInputs.cache
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/bin/Debug/net6.0/example002_HelloUser
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/bin/Debug/net6.0/example002_HelloUser.deps.json
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/bin/Debug/net6.0/example002_HelloUser.runtimeconfig.json
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/bin/Debug/net6.0/example002_HelloUser.dll
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/bin/Debug/net6.0/example002_HelloUser.pdb
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.dll
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/refint/example002_HelloUser.dll
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.pdb
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/example002_HelloUser.genruntimeconfig.cache
+/home/evgen/Programming/GeekBrans/c_lesson_1/example002_HelloUser/obj/Debug/net6.0/ref/example002_HelloUser.dll
