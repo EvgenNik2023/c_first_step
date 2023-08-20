@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/evgen/Programming/GeekBrans/c_lesson_1/exam/exam.csproj",
-      "projectName": "exam",
-      "projectPath": "/home/evgen/Programming/GeekBrans/c_lesson_1/exam/exam.csproj",
+      "projectUniqueName": "/home/evgen/Programming/GeekBrans/c_lesson_1/example003_sum/example003_sum.csproj",
+      "projectName": "example003_sum",
+      "projectPath": "/home/evgen/Programming/GeekBrans/c_lesson_1/example003_sum/example003_sum.csproj",
       "packagesPath": "/home/evgen/.nuget/packages/",
-      "outputPath": "/home/evgen/Programming/GeekBrans/c_lesson_1/exam/obj/",
+      "outputPath": "/home/evgen/Programming/GeekBrans/c_lesson_1/example003_sum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/evgen/.nuget/NuGet/NuGet.Config"
